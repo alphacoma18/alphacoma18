@@ -16,7 +16,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpha-coma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alphacoma18) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18420669) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alphacoma18)  [![wakatime](https://wakatime.com/badge/user/97aaf23b-73d1-4d5e-824b-f1c60dbc5eed.svg)](https://wakatime.com/@97aaf23b-73d1-4d5e-824b-f1c60dbc5eed) [![Profile Views](https://visitcount.itsvg.in/api?id=alphacoma18&icon=2&color=5)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpharomercoma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alphacoma18) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18420669) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alphacoma18)  [![wakatime](https://wakatime.com/badge/user/97aaf23b-73d1-4d5e-824b-f1c60dbc5eed.svg)](https://wakatime.com/@97aaf23b-73d1-4d5e-824b-f1c60dbc5eed) [![Profile Views](https://visitcount.itsvg.in/api?id=alphacoma18&icon=2&color=5)](https://visitcount.itsvg.in)
 
 ## 💻 Tech Stack
 
