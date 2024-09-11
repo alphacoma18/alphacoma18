@@ -1,23 +1,18 @@
 <h1 align="center">Hey 👋, I'm Alpha!</h1>
 
-![Alpha In Microsoft](./ms_1.jpg)
+![Alpha In Microsoft](./ms_3.jpg)
 
 ## 💫 About Me
 
-
-
-- 🔭 I’m currently working on **[FEU Tech ACM-X](https://github.com/alphacoma18/mdstudio)**
-- 👯 I’m looking to collaborate on **[MyMNHS: School Platform](https://github.com/alphacoma18/mymnhs)**
+- 🔭 I’m currently working on **[FEU Tech ACM-X](https://github.com/FEUTechACMX/acmx)**
 - 🤝 I'm looking for help with **[Markdown Studio](https://github.com/alphacoma18/mdstudio)**
 - 🌱 I’m currently learning:
-  - 🌎 **Languages**: Assembly
-  - 📙 **Concepts**: Design Patterns & Software Architecture
+  - 📙 **Concepts**: AI/Machine Learning
   - 👾 **Software**: Docker & Kubernetes
   - 🖥 **Hardware**: Orange Pi & Arduino
 - 💬 Ask me about **Software Development**
 - ⚡ Fun fact - **I'm multilingual! - Tagalog • English • 日本語 • 中文**
-- 📫 How to reach me - **<alpha.coma.ict@gmail.com>**
-
+- 📫 How to reach me - **<alpharomercoma@proton.me>**
 
 ## 🌐 Socials
 
